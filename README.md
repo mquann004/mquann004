@@ -22,15 +22,4 @@ I'm a final-year Internet of Things student at Posts and Telecommunications Inst
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mquann004&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mquann004&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/minh-qu%C3%A2n-tr%E1%BA%A7n-3874703a4/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
 
